@@ -1,6 +1,6 @@
 # ft_printf
 
-ft_printf is an implementation of the printf function of the c language from the stdio.h library
+``ft_printf`` is an implementation of the ``printf`` function of the ``c`` language from the ``stdio.h`` library
 
 BUILD ft_printf ``make``
 
