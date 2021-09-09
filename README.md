@@ -6,4 +6,4 @@ BUILD ft_printf ``make``
 
 USAGE ``gcc your_files.c libftprintf.a``
 
-in ``your_files.c`` where is ``ft_printf`` used you should import ``ft_printf.h``
+in ``your_files.c`` where ``ft_printf`` is used you should import ``ft_printf.h``
